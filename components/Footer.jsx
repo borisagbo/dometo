@@ -14,7 +14,6 @@ const Footer = () => {
             <div className=" space-y-4">
                 <Image src={Logo}   alt="Picture of the author" priority/>
                 <div className="space-y-10">
-                    <p className="text-base font-roboto font-normal">Nuƒolanɔƒe si ana míakpɔ dekɔnu si me kesinɔnuwo le le Ewegbe me to nya yeyewo sɔsrɔ̃ me</p>
                     <p className="text-base font-roboto font-normal">© BlackOVNI 2022</p>
                 </div>
          </div>
